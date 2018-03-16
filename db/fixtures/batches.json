@@ -1,0 +1,27 @@
+[
+  {
+    "batchNumber" : "1",
+    "startDate" : "2017-10-22",
+    "endDate" : "2017-12-22",
+    "students" : [{
+      "name" : "Lul",
+      "photo" : "https://i2.wp.com/www.kingsizemag.se/wp-content/uploads/2017/11/big-shaq-genius-mans-not-ls.jpg"
+    }]
+
+  },
+  {
+    "batchNumber" : "2",
+    "startDate" : "2017-10-22",
+    "endDate" : "2017-12-22"
+  },
+  {
+    "batchNumber" : "3",
+    "startDate" : "2017-10-22",
+    "endDate" : "2017-12-22"
+  },
+  {
+    "batchNumber" : "4",
+    "startDate" : "2017-10-22",
+    "endDate" : "2017-12-22"
+  }
+]
